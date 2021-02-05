@@ -1,4 +1,4 @@
-# 📝 Imgfy API
+# 🎨 Imgfy API
 
 Official PHP API wrapper for [Imgfy.cf](https://imgfy.cf/).
 
