@@ -9,7 +9,7 @@ $ composer require chipslays/imgfy-api
 
 ## Methods
 
-### Upload Image
+### `upload`
 
 Upload image to Imgfy.cf:
 
