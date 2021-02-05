@@ -1,0 +1,14 @@
+{
+    "name": "chipslays/imgfy-api",
+    "description": "Official API wrapper for Imgfy.cf",
+    "keywords": ["image", "uploader", "image-hosting", "api"],
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Chipslays\\Imgfy\\": "src/"
+        },
+        "files": ["src/Helpers.php"]
+    }
+}
