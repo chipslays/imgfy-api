@@ -1,7 +1,5 @@
 # 🎨 Imgfy API
 
-Official PHP API wrapper for [Imgfy.cf](https://imgfy.cf/).
-
 Imgfy - is a simple and beautiful service for uploading images.
 
 ## Installation
