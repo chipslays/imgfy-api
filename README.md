@@ -1,6 +1,6 @@
 # 🎨 Imgfy API
 
-Imgfy - is a simple and beautiful service for uploading images.
+[**Imgfy**](https://imgfy.cf/) - is a simple and beautiful service for uploading images.
 
 ## Installation
 ```bash
