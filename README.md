@@ -1,4 +1,4 @@
-# 🎨 Imgfy API
+# 🎨 Imgfy [API](https://imgfy.cf/api)
 
 [**Imgfy**](https://imgfy.cf/) - is a simple and beautiful service for uploading images.
 
